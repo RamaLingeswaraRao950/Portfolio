@@ -5,9 +5,8 @@ This is my portfolio website showcasing my projects, skills, hands-on experience
 - Responsive and modern UI/UX  
 - Sections for About, Projects, Skills, Experience, and Contact  
 - Interactive project showcase with live links and descriptions  
-- Smooth scrolling and animations  
-- Optimized for performance and SEO  
-
+- Smooth scrolling
+  
 ## 🛠️ Tech Stack  
 - **Frontend:** HTML5, CSS3, JavaScript, React.js, Vite.js
 - **Styling:** Tailwind CSS
