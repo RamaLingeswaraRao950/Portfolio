@@ -11,7 +11,7 @@ This is my portfolio website. It is designed to highlight my expertise in softwa
 ## 🛠️ Tech Stack :--
 
 🎨 **Frontend :-** 
-**HTML5**🧱, **CSS3**🎨, **JavaScript (ES6+)** ⚙️, **React.js**⚛️, **Vite.js**⚡
+**HTML5**🧱 | **CSS3**🎨 | **JavaScript(ES6+)** ⚙️ | **React.js**⚛️ | **Vite.js**⚡
 
 💅 **Styling :-**
 **Tailwind CSS**🌈
