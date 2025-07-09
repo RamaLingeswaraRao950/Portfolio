@@ -13,15 +13,14 @@ This is my portfolio website showcasing my projects, skills, hands-on experience
 🎨 **Frontend :-** 
 🧱 **HTML5**, 🎨 **CSS3**, ⚙️ **JavaScript (ES6+)** ,⚛️ **React.js**,⚡ **Vite.js**
 
-💅 **Styling :-**  
+💅 **Styling :-**
 🌈 **Tailwind CSS**  
 
-🔗 **Integration :-**  
+🔗 **Integration :-**
 📡 **Axios**
 
 🚀 **Deployment :-**
-🌍 **Vercel**  
-
+🌍 **Vercel**
 
 ## 📂 Installation & Setup  
 To run this project locally, follow these steps:  
