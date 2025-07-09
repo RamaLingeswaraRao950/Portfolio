@@ -1,5 +1,5 @@
 ## 📌 Overview  
-This is my portfolio website showcasing my projects, skills, hands-on experience. It is designed to highlight my foundation in software development and provide an interactive way for potential employers and clients to learn more about my work.  
+This is my portfolio website. It is designed to highlight my expertise in software development and provide an interactive way for potential employers and clients to learn more about my work.  
 
 ## 🚀 Features :--
 
@@ -12,10 +12,13 @@ This is my portfolio website showcasing my projects, skills, hands-on experience
 
 🎨 **Frontend :-** 
 **HTML5**🧱, **CSS3**🎨, **JavaScript (ES6+)** ⚙️, **React.js**⚛️, **Vite.js**⚡
+
 💅 **Styling :-**
 **Tailwind CSS**🌈
+
 🔗 **Integration :-**
 **Axios**📡
+
 🚀 **Deployment :-**
 **Vercel**🌍
 
