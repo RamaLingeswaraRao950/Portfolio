@@ -10,10 +10,14 @@ This is my portfolio website showcasing my projects, skills, hands-on experience
   
 ## 🛠️ Tech Stack :--
 
-🎨 **Frontend :-** 🧱 **HTML5**, 🎨 **CSS3**, ⚙️ **JavaScript (ES6+)** ,⚛️ **React.js**,⚡ **Vite.js**
-💅 **Styling :-**  🌈 **Tailwind CSS**  
-🔗 **Integration :-**  📡 **Axios** – Promise-based HTTP client for API requests (used for fetching data like weather/news/etc.)
-🚀 **Deployment :-**   🌍 **Vercel** – Hosting platform for frontend apps with instant deployment and global CDN  
+🎨 **Frontend :-** 
+🧱 **HTML5**, 🎨 **CSS3**, ⚙️ **JavaScript (ES6+)** ,⚛️ **React.js**,⚡ **Vite.js**
+💅 **Styling :-**  
+🌈 **Tailwind CSS**  
+🔗 **Integration :-**  
+📡 **Axios**
+🚀 **Deployment :-**
+🌍 **Vercel**  
 
 
 ## 📂 Installation & Setup  
