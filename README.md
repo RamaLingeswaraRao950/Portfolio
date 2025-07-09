@@ -3,41 +3,17 @@ This is my portfolio website showcasing my projects, skills, hands-on experience
 
 ## 🚀 Features :--
 
-💻 **Responsive and Modern UI/UX**  
-– Fully optimized for all devices: desktop, tablet, and mobile  
-– Sleek, modern interface with accessible layouts
-
-📂 **Modular Sections**  
-– Includes dedicated components/pages for:  
-   📌 About  
-   🧰 Skills  
-   🧠 Experience  
-   💼 Projects  
-   ✉️ Contact  
-
-🧩 **Interactive Project Showcase**  
-– Projects displayed with hover effects, descriptions, and live preview/demo links
-
-🎯 **Smooth Scrolling Navigation**  
-– Seamless transitions between sections for an engaging user experience
+💻 Responsive and modern UI/UX  
+📌 Sections: About, Projects, Skills, Experience, Contact  
+🧩 Interactive project showcase with live links  
+🎯 Smooth scrolling between sections  
   
 ## 🛠️ Tech Stack :--
 
-🎨 **Frontend**  
-- 🧱 **HTML5** – Structure of the web pages  
-- 🎨 **CSS3** – Styling and visual layout  
-- ⚙️ **JavaScript (ES6+)** – Core logic and interactivity  
-- ⚛️ **React.js** – Component-based UI library for building the interactive interface  
-- ⚡ **Vite.js** – Lightning-fast build tool and development server for React apps  
-
-💅 **Styling**  
-- 🌈 **Tailwind CSS** – Utility-first CSS framework for rapid UI development with minimal code  
-
-🔗 **Integration**  
-- 📡 **Axios** – Promise-based HTTP client for API requests (used for fetching data like weather/news/etc.)
-
-🚀 **Deployment**  
-- 🌍 **Vercel** – Hosting platform for frontend apps with instant deployment and global CDN  
+🎨 **Frontend :-** 🧱 **HTML5**, 🎨 **CSS3**, ⚙️ **JavaScript (ES6+)** ,⚛️ **React.js**,⚡ **Vite.js**
+💅 **Styling :-**  🌈 **Tailwind CSS**  
+🔗 **Integration :-**  📡 **Axios** – Promise-based HTTP client for API requests (used for fetching data like weather/news/etc.)
+🚀 **Deployment :-**   🌍 **Vercel** – Hosting platform for frontend apps with instant deployment and global CDN  
 
 
 ## 📂 Installation & Setup  
