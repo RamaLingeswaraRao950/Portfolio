@@ -6,7 +6,7 @@ import resume from "../../assets/Resume.pdf";
 function ProfileDetails() {
   const [details] = useState({
     profileImage: profileImg,
-    title: "Hey ! , I'm Rama Lingeswara Rao. A Full-Stack developer based in Andhra Pradesh.",
+    title: "Hey ! , I'm Rama Lingeswara Rao. A Full-Stack developer based in Hyderabad, Telangana.",
     description:
       "With a year of hands-on experience in software development, I specialize in the FULL-Stack. I combine creativity with technical skills to solve problems and build effective apps.",
     resume: resume,
