@@ -17,7 +17,7 @@ function Footer() {
         </p>
 
         <div className="footer-social">
-          <a href="mailto:princeram950@gmail.com" target="_blank" rel="noreferrer"> <MdOutlineEmail /> </a>
+          <a href="mailto:rlr.svkv@gmail.com" target="_blank" rel="noreferrer"> <MdOutlineEmail /> </a>
 
           <a href="https://www.linkedin.com/in/r-l-r-s-b6706428b/" target="_blank"> <FaLinkedin /> </a>
           
