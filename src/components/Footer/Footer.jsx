@@ -19,7 +19,7 @@ function Footer() {
         <div className="footer-social">
           <a href="mailto:princeram950@gmail.com" target="_blank" rel="noreferrer"> <MdOutlineEmail /> </a>
 
-          <a href="https://www.linkedin.com/in/rama-lingeswara-rao-sivakavi-b6706428b/" target="_blank"> <FaLinkedin /> </a>
+          <a href="https://www.linkedin.com/in/r-l-r-s-b6706428b/" target="_blank"> <FaLinkedin /> </a>
           
           <a href="https://wa.me/916302602564?text=Hi%2C%20Ram%20Sivakavi" target="_blank"> <FaWhatsapp /> </a>
           
